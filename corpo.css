@@ -9,40 +9,40 @@
 main{
     box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.219);
     background-color: rgb(240, 240, 240);
-    padding: 15px 30px;
-    margin-left: auto;
-    margin-right: auto;
-    min-height: 91.3vh;
-    max-height: 100vh;
+    padding: 0px 10px;
+    margin: auto;
+    min-height: 400px;
+    max-height: 5000px;
     min-width: 50px;
-    max-width: 1476px;
+    max-width: 1160px;
+    border-radius: 0px 0px 10px 10px;
 }
 .sombra{
     display: inline-block;
-    background-color: rgb(255, 255, 255)255);
-    margin: 5px 5px;
-    height: 370px;
-    width: 230px;
+    background-color: rgb(0, 0, 0);
+    margin: 10px 5px 10px 5px;
+    height: 360px;
+    width: 180px;
 }
 .sombra:hover{
     box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.432);
 }
 .fundo1{
     display: inline-block;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(73, 73, 73);
     margin: auto;
-    height: 370px;
-    width: 230px;
+    height: 360px;
+    width: 180px;
 }
 .fundo2{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(175, 175, 175);
     margin: 10px 10px;
-    height: 350px;
-    width: 210px;
+    height: 340px;
+    width: 160px;
 }
 .foto{
     display: inline-block;
-    padding: 0px 5px;
+    padding: 5px;
 }
 .informaçoes h1{
     text-align: center;
@@ -59,7 +59,7 @@ main{
     border-radius: 20px;
     background-color: #1877f2;
     font-size: 30px;
-    margin: 22%;
+    margin: 15%;
     border-radius: 8px;
     box-shadow: 2px 4px 1px #0057c9;
     padding: 5px;
