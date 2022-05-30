@@ -20,7 +20,7 @@ main{
     display: inline-block;
     background-color: rgb(255, 255, 255);
     margin: 10px 5px 10px 5px;
-    width: 180px;
+    width: 150px;
 }
 .sombra:hover{
     box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.432);
@@ -29,12 +29,12 @@ main{
     display: inline-block;
     background-color: rgb(255, 255, 255);
     margin: auto;
-    width: 180px;
+    width: 150px;
 }
 .fundo2{
     background-color: rgb(255, 255, 255);
     margin: 10px 10px;
-    width: 160px;
+    width: 130px;
 }
 .foto{
     display: inline-block;
@@ -59,9 +59,9 @@ main{
     text-align: center;
     border-radius: 20px;
     background-color: #1877f2;
-    font-size: 30px;
-    height: 35px;
-    width: 115px;
+    font-size: 22px;
+    height: 28px;
+    width: 105px;
     margin: auto;
     border-radius: 8px;
     box-shadow: 3px 5px 2px #0057c9;
