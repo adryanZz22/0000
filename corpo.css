@@ -6,6 +6,9 @@
     min-width: 50px;
     max-width: 1980px;
 }
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 main{
     box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.219);
     background-color: rgb(240, 240, 240);
@@ -56,10 +59,13 @@ main{
     margin-bottom: 8px;
 }
 .valor a{
+    display: block;
     border-radius: 20px;
     background-color: #1877f2;
     font-size: 30px;
-    margin: 15%;
+    height: 35px;
+    width: 110px;
+    margin: auto;
     border-radius: 8px;
     box-shadow: 2px 4px 1px #0057c9;
     padding: 5px;
