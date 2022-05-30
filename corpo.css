@@ -10,8 +10,9 @@ main{
     padding: 15px 30px;
     margin-left: auto;
     margin-right: auto;
-    height: 94vh;
-    width: 1476px;
+    max-height: 94vh;
+    max-width: 1476px;
+    max-width: 300px;
 }
 .sombra{
     display: inline-block;
