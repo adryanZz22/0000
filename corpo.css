@@ -12,13 +12,13 @@ main{
     min-height: 300px;
     max-height: 5000px;
     min-width: 50px;
-    max-width: 1151px;
+    max-width: 1179px;
     border-radius: 0px 0px 10px 10px;
 }
 .sombra{
     display: inline-block;
     background-color: rgb(255, 255, 255);
-    margin: 8px 3px 8px 3px;
+    margin: 8px 5px 8px 5px;
     width: 155px;
 }
 .sombra:hover{
