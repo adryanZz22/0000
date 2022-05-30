@@ -18,7 +18,7 @@ main{
 .sombra{
     display: inline-block;
     background-color: rgb(255, 255, 255);
-    margin: 8px 5px 8px 5px;
+    margin: 8px 3px 8px 3px;
     width: 155px;
 }
 .sombra:hover{
