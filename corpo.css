@@ -60,14 +60,15 @@ main{
 }
 .valor a{
     display: block;
+    text-align: center;
     border-radius: 20px;
     background-color: #1877f2;
     font-size: 30px;
     height: 35px;
-    width: 110px;
+    width: 115px;
     margin: auto;
     border-radius: 8px;
-    box-shadow: 2px 4px 1px #0057c9;
+    box-shadow: 3px 5px 2px #0057c9;
     padding: 5px;
     text-decoration: none;
     color: aliceblue;
