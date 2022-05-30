@@ -20,27 +20,29 @@ main{
     display: inline-block;
     background-color: rgb(255, 255, 255);
     margin: 10px 5px 10px 5px;
-    width: 150px;
+    width: 155px;
 }
 .sombra:hover{
-    box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.432);
+    box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.685);
+    transition-duration: 1s;
 }
 .fundo1{
     display: inline-block;
     background-color: rgb(255, 255, 255);
     margin: auto;
-    width: 150px;
+    width: 155px;
 }
 .fundo2{
     background-color: rgb(255, 255, 255);
     margin: 10px 10px;
-    width: 130px;
+    width: 135px;
 }
 .foto{
     display: inline-block;
-    padding: 5px;
+    padding: 7px;
 }
 .informaçoes h1{
+    font-weight: lighter;
     text-align: center;
     font-size: 18px;
     padding: 5px;
