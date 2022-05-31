@@ -18,10 +18,8 @@ main{
 .canto{
     background-color: rgb(170, 170, 170);
     display: inline-block;
-    min-height: 50px;
-    max-height: 630px;
-    min-width: 50px;
-    max-width: 130px;
+    height: 630px;
+    width: 130px;
     text-align: center;
 }
 .fotomini{
@@ -32,8 +30,7 @@ main{
     display:inline-block;
 }
 .fotogrande img{
-    min-height: 100px;
-    max-height: 600px;
+    height: 600px;
     margin: 12px;
 
 }
@@ -42,21 +39,19 @@ main{
 }
 .fundoo{
     box-shadow: 5px 8px 20px rgba(0, 0, 0, 0.178);
- background-color: rgb(255, 255, 255);
- display: inline-block;
- position: absolute;
- margin-top: 14px;
- height: 601px;
- min-width: 50px;
- max-width: 400px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    position: absolute;
+    margin-top: 14px;
+    height: 601px;
+    width: 400px;
 }
 .fundotitulo{
     background-color: rgba(255, 255, 255, 0.733);
     padding-top: 10px;
     margin: 15px;
     height: 562px;
-    min-width: 50px;
-    max-width: 370px;
+    width: 370px;
 }
 .fundotitulo h1{
  font-size: 33px;
