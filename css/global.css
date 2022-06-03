@@ -14,20 +14,19 @@ main{
     min-width: 50px;
     max-width: 1179px;
     border-radius: 0px 0px 10px 10px;
+    display: flex;
 }
 .canto{
     background-color: rgb(170, 170, 170);
-    display: inline-block;
     height: 630px;
     width: 130px;
     text-align: center;
 }
 .fotomini{
-    display:inline-block;
     margin-top: 2px;
 }
 .fotogrande{
-    display:inline-block;
+
 }
 .fotogrande img{
     height: 600px;
